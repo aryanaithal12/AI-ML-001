@@ -48,14 +48,15 @@ Understand an elementary idea of clustering, that you will explore in more detai
 - [https://medium.com/mlpoint/matplotlib-for-machine-learning-6b5fcd4fbbc7](https://medium.com/mlpoint/matplotlib-for-machine-learning-6b5fcd4fbbc7)
 
 
-- [https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work]
-[https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a]([https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a)
+- [https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work)
+- [https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a)
 
 ## Task 3 - Numpy
 
 Using Numpy Generate an array by repeating a small array across each dimension and Generate an array with element indexes such that the array elements appear in ascending order.
 
-Reference : [https://numpy.org/doc/]
+#### Reference : 
+- [https://numpy.org/doc/](https://numpy.org/doc/)
 
 ## Task 4 - Metrics and Performance Evaluation
 
@@ -109,49 +110,56 @@ Reference : [https://numpy.org/doc/]
 ##  Task 7: An elementary step towards understanding Neural Networks
 - Write a blog about your understanding of Neural Networks and types like CNN, ANN, etc. Make sure to include any mathematical implication. You can add the function calls used to implement the algorithms.
 - Learn about Large Language Models at a basic level and make a blog post explaining how you would build GPT-4.
-- References:
-- Neural Networks
-- [https://youtu.be/bfmFfD2RIcg](https://youtu.be/bfmFfD2RIcg)
-- [https://youtu.be/bfmFfD2RIcg](https://youtu.be/bfmFfD2RIcg)
-- [https://youtu.be/u7obuspdQu4](https://youtu.be/u7obuspdQu4)
-- [https://youtu.be/yN7ypxC7838](https://youtu.be/yN7ypxC7838) 
-- LLM
-- [https://youtu.be/rURRYI66E54](https://youtu.be/rURRYI66E54)
-- [https://youtu.be/VPRSBzXzavo](https://youtu.be/VPRSBzXzavo)
-- [https://youtu.be/Mg0imf_85Zw](https://youtu.be/Mg0imf_85Zw)
+#### References:
+1. Neural Networks
+    - [https://youtu.be/bfmFfD2RIcg](https://youtu.be/bfmFfD2RIcg)
+    - [https://youtu.be/bfmFfD2RIcg](https://youtu.be/bfmFfD2RIcg)
+    - [https://youtu.be/u7obuspdQu4](https://youtu.be/u7obuspdQu4)
+    - [https://youtu.be/yN7ypxC7838](https://youtu.be/yN7ypxC7838)
+2. LLM
+    - [https://youtu.be/rURRYI66E54](https://youtu.be/rURRYI66E54)
+    - [https://youtu.be/VPRSBzXzavo](https://youtu.be/VPRSBzXzavo)
+    - [https://youtu.be/Mg0imf_85Zw](https://youtu.be/Mg0imf_85Zw)
 
 ## Task 8: Mathematics behind machine learning
 Deepen your understanding with proper mathematical constructs that act as backbones for the algorithms you write and implement. Perform the below tasks as indicated:
+ Curve-Fitting- Model a curve fitting for a simple function of your choice, on Desmos. 
+ Fourier Transforms- Fourier transforms are perhaps the most important function approximators used today. Model a fourier transform for a function of your choice on MATLAB. 
+#### References:
+1. Curve Fitting
+    - [https://youtu.be/g5mptjNfDmw](https://youtu.be/g5mptjNfDmw)  
+    - [https://youtu.be/d2p1VUfDf5I](https://youtu.be/d2p1VUfDf5I)
 
-- Curve-Fitting- Model a curve fitting for a simple function of your choice, on Desmos. 
-- Fourier Transforms- Fourier transforms are perhaps the most important function approximators used today. Model a fourier transform for a function of your choice on MATLAB. 
-- References
-- Curve Fitting
-- [https://youtu.be/g5mptjNfDmw](https://youtu.be/g5mptjNfDmw)  
-- [https://youtu.be/d2p1VUfDf5I](https://youtu.be/d2p1VUfDf5I)
+2. Fourier Transforms
+    - [https://youtu.be/spUNpyF58BY](https://youtu.be/spUNpyF58BY)
+    - [https://youtu.be/GPEE8JviDGU](https://youtu.be/GPEE8JviDGU)
+    - [https://youtu.be/L3uSisveWvw](https://youtu.be/L3uSisveWvw) 
 
-- Fourier Transforms
-- [https://youtu.be/spUNpyF58BY](https://youtu.be/spUNpyF58BY)
-- [https://youtu.be/GPEE8JviDGU](https://youtu.be/GPEE8JviDGU)
-- [https://youtu.be/L3uSisveWvw](https://youtu.be/L3uSisveWvw) 
-
-## Task 9: Data Visualization for Exploratory Data Analysis
-Use Plotly for data visualization. This is an advanced visualization library, more dynamic than the generally used MatPlotlib or Seaborn.
-- References:
--[https://youtube.com/playlist?list=PLE50-dh6JzC4onX-qkv9H3HtPbBVA8M94]9https://youtube.com/playlist?list=PLE50-dh6JzC4onX-qkv9H3HtPbBVA8M94)
-- [https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners](https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners)
-- [https://towardsdatascience.com/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522](https://towardsdatascience.com/leap-from-matplotlib-to-plotly-a-hands-on-tutorial-for-beginners-d208cd9e6522)
+## Task 9: SVM
+Support vector machines are supervised learning methods to create a non-probabilistic linear model, where a data value is assigned one of two classes to maximise the difference between the two classes. The data points are vectors and a hyperplane between the two classes is selected optimally to maximize the difference and regularize the loss.
+#### Resources:
+1. Understanding Support Vector Machines
+    - [https://www.youtube.com/watch?v=_YPScrckx28&ab_channel=VisuallyExplained](https://www.youtube.com/watch?v=_YPScrckx28&ab_channel=VisuallyExplained)
+    - [https://www.youtube.com/watch?v=ny1iZ5A8ilA&ab_channel=IntuitiveMachineLearning](https://www.youtube.com/watch?v=ny1iZ5A8ilA&ab_channel=IntuitiveMachineLearning)
+    - [https://www.youtube.com/watch?v=efR1C6CvhmE&ab_channel=StatQuestwithJoshStarmer](https://www.youtube.com/watch?v=efR1C6CvhmE&ab_channel=StatQuestwithJoshStarmer)
+    - [https://www.youtube.com/watch?v=_PwhiWxHK8o&ab_channel=MITOpenCourseWare](https://www.youtube.com/watch?v=_PwhiWxHK8o&ab_channel=MITOpenCourseWare)
+2. Correct and timely diagnosis of Breast Cancer, an exquisite disease is an essential matter in the medical field. Using the concept of Support Vector Machines, detect the possibility of breast cancer. [dataset]
+    - [https://www.freecodecamp.org/news/svm-machine-learning-tutorial-what-is-the-support-vector-machine-algorithm-explained-with-code-examples/](https://www.freecodecamp.org/news/svm-machine-learning-tutorial-what-is-the-support-vector-machine-algorithm-explained-with-code-examples/)
+    - [https://www.geeksforgeeks.org/support-vector-machine-algorithm/#](https://www.geeksforgeeks.org/support-vector-machine-algorithm/#)
+    - [https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+    - [https://towardsdatascience.com/breast-cancer-classification-using-support-vectormachine-svm-a510907d4878](https://towardsdatascience.com/breast-cancer-classification-using-support-vectormachine-svm-a510907d4878)
+    - [https://towardsdatascience.com/case-study-breast-cancer-classification-svm-2b67d668bbb7](https://towardsdatascience.com/case-study-breast-cancer-classification-svm-2b67d668bbb7)
 
 ## Task 10: An introduction to Decision Trees
 Decision Tree is a supervised learning algorithm that can be used for Regressive or Classifying Tasks. It is a way to use conditional statements as a hierarchy so that, for an event, you get the chances of given outcomes.
-- References:
+#### References:
 -[https://www.youtube.com/watch?v=b4bWm4W7yHE](https://www.youtube.com/watch?v=b4bWm4W7yHE) 
 - [https://youtu.be/PHxYNGo8NcI](https://youtu.be/PHxYNGo8NcI)
 - [https://youtu.be/_L39rN6gz7Y](https://youtu.be/_L39rN6gz7Y) 
 
 ## Task 11: Exploration of a Real world application of Machine Learning
 Algorithms trained by a student taking their first steps into Machine learning are vastly different from algorithms used for professional deployment. Find out what’s on the market, and why it’s on the market, i.e. take a real world project and document the use of Machine Learning algorithms and mathematical constructs used in it.This task can be done as a case study.
-- References:
+#### References:
 - [https://youtu.be/ZJixNvx9BAc](https://youtu.be/ZJixNvx9BAc)
 - [https://youtu.be/xSGX8gBQDO8](https://youtu.be/xSGX8gBQDO8)
 - [https://www.youtube.com/live/WyHPyWrvAts?feature=share](https://www.youtube.com/live/WyHPyWrvAts?feature=share)
