@@ -28,21 +28,7 @@
     - [https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41](https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41)
 
 
-## Task 3 - Naive Bayesian Classifier
-
-1. Understand Naive Bayesian Classifier, watch it in action using sklearn 
-    - [https://www.youtube.com/watch?v=O2L2Uv9pdDA](https://www.youtube.com/watch?v=O2L2Uv9pdDA)  
-    - [https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c)
-    - [https://www.geeksforgeeks.org/naive-bayes-classifiers/](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
-    - [https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
-    - [https://www.analyticsvidhya.com/blog/2021/01/a-guide-to-the-naive-bayes-algorithm/](https://www.analyticsvidhya.com/blog/2021/01/a-guide-to-the-naive-bayes-algorithm/)
-2. Implement Naive Bayesian Classifier for text classification and other applicable datasets 
-    - [https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
-    - [https://www.geeksforgeeks.org/ml-naive-bayes-scratch-implementation-using-python/](https://www.geeksforgeeks.org/ml-naive-bayes-scratch-implementation-using-python/)
-    - [https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41](https://towardsdatascience.com/implementing-naive-bayes-algorithm-from-scratch-python-c6880cfc9c41)
-
-
-## Task 4 - Ensemble techniques 
+## Task 3 - Ensemble techniques 
 
 1. What are ensemble techniques 
     - [https://www.youtube.com/watch?v=Un9zObFjBH0&amp;ab_channel=Udacity](https://www.youtube.com/watch?v=Un9zObFjBH0&amp;ab_channel=Udacity)
@@ -55,7 +41,7 @@
     - [https://www.kaggle.com/pragyanbo/ensemble-learning-methods-using-titanic-dataset](https://www.kaggle.com/pragyanbo/ensemble-learning-methods-using-titanic-dataset)
     - [https://sidhantha.medium.com/titanic-survival-prediction-using-ensemble-stacking-663e28926af6](https://sidhantha.medium.com/titanic-survival-prediction-using-ensemble-stacking-663e28926af6)
 
-## Task 5 - Random Forest, GBM and Xgboost
+## Task 4 - Random Forest, GBM and Xgboost
 
 1. Random forest
     1. Understand
@@ -84,7 +70,7 @@
 -   [https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#h2_8](https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/#h2_8)
 
 
-## Task 6 - Hyperparameter Tuning
+## Task 5 - Hyperparameter Tuning
 
 1. Understanding
     - [https://www.youtube.com/watch?v=ttE0F7fghfk&amp;ab_channel=SirajRaval](https://www.youtube.com/watch?v=ttE0F7fghfk&amp;ab_channel=SirajRaval)
@@ -98,3 +84,21 @@
     - [https://www.youtube.com/watch?v=jUxhUgkKAjE&amp;ab_channel=DataProfessor](https://www.youtube.com/watch?v=jUxhUgkKAjE&amp;ab_channel=DataProfessor)
     - [https://www.youtube.com/watch?v=5nYqK-HaoKY&amp;ab_channel=AbhishekThakur](https://www.youtube.com/watch?v=5nYqK-HaoKY&amp;ab_channel=AbhishekThakur)
 
+## Task 6: Image Classification using KMeans Clustering
+Image classification is an important area in real-world applications of machine learning. K means clustering is a simple algorithm that uses clusters or collections of data and finds ‘k’ number of centroids, by averaging it out, such that k is the minimum.
+#### Resources:
+1. Understanding K Means Clustering:
+   - [https://www.youtube.com/watch?v=yR7k19YBqiw&ab_channel=Computerphile](https://www.youtube.com/watch?v=yR7k19YBqiw&ab_channel=Computerphile)
+   - [https://www.youtube.com/watch?v=4b5d3muPQmA&ab_channel=StatQuestwithJoshStarmer](https://www.youtube.com/watch?v=4b5d3muPQmA&ab_channel=StatQuestwithJoshStarmer)
+2. Classify a given set of images into a given number of categories using KMeans Clustering using MNIST dataset:
+    - [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
+    - [https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
+    - [https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
+    - [https://medium.com/@joel_34096/k-means-clustering-for-image-classification-a648f28bdc47#](https://medium.com/@joel_34096/k-means-clustering-for-image-classification-a648f28bdc47#)
+    - [https://towardsdatascience.com/image-clustering-using-k-means-4a78478d2b83](https://towardsdatascience.com/image-clustering-using-k-means-4a78478d2b83)
+
+## Task 7: Anomaly Detection
+Anomaly detection is a way to detect erroneous data points in a stream, by looking at statistical differences. Anomaly detection can be done through unsupervised or supervised learning methods.
+#### Resources:
+- [https://www.geeksforgeeks.org/machine-learning-for-anomaly-detection/](https://www.geeksforgeeks.org/machine-learning-for-anomaly-detection/)
+- [https://www.geeksforgeeks.org/comparing-anomaly-detection-algorithms-for-outlier-detection-on-toy-datasets-in-scikit-learn/?ref=rp](https://www.geeksforgeeks.org/comparing-anomaly-detection-algorithms-for-outlier-detection-on-toy-datasets-in-scikit-learn/?ref=rp)
